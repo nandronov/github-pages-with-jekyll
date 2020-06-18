@@ -1,3 +1,3 @@
-# Welcome to my blog
+<h1>Welcome to my blog</h1>
 
-I'm glad you are here. I plan to talk about ...
+<b>I'm glad you are here.</b> <i>I plan to talk about ...</i>
